@@ -15,4 +15,4 @@ Please uncheck options which are not applicable
 - [ ] all tests are passed?
 - [ ] checked integration tests are passed or not
 - [ ] test coverage increased, if not please mention the reason in description
-- [ ] peer review done? if yes,  mention the peer here
+- [ ] peer review done? if yes,  mention the peer here.
