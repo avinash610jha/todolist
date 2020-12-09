@@ -6,7 +6,7 @@ import javax.persistence.*;
 public class ListEntity {
 
     @Id
-    @Column(name="task_id")
+    @Column(name="taskId")
     private Integer id;
 
     @Column(length = 2000)
